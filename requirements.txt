@@ -1,0 +1,8 @@
+paddlepaddle-gpu
+paddleocr>=2.0.1
+opencv-python 
+matplotlib.pyplot 
+google-generativeai
+python-dotenv
+Flask-Cors==4.0.1
+pymongo
